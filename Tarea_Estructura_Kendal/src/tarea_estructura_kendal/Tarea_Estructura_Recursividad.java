@@ -9,7 +9,7 @@ package tarea_estructura_kendal;
  *
  * @author Kendal Angulo
  */
-public class Tarea_Estructura_Kendal {
+public class Tarea_Estructura_Recursividad {
 
     /**
      * @param args the command line arguments
